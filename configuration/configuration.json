@@ -1,0 +1,89 @@
+[
+  {
+    "name": "BTC-USD",
+    "type": "crypto",
+    "base_currency": "BTC",
+    "quote_currency": "USD",
+    "quantity": 4.5,
+    "price_per_unit": 33006.26
+  },
+  {
+    "name": "ETH-USD",
+    "type": "crypto",
+    "base_currency": "ETH",
+    "quote_currency": "USD",
+    "quantity": 30.25,
+    "price_per_unit": 2165.62
+  },
+  {
+    "name": "XRP-EUR",
+    "type": "crypto",
+    "base_currency": "XRP",
+    "quote_currency": "EUR",
+    "quantity": 10.12,
+    "price_per_unit": 0.80
+  },
+  {
+    "name": "BSV-EUR",
+    "type": "crypto",
+    "base_currency": "BSV",
+    "quote_currency": "EUR",
+    "quantity": 10.12,
+    "price_per_unit": 140.85
+  },
+
+  {
+    "name": "USD-EUR",
+    "type": "normal",
+    "base_currency": "USD",
+    "quote_currency": "EUR",
+    "quantity": 123.99,
+    "price_per_unit": 0.821
+  },
+  {
+    "name": "GBP-USD",
+    "type": "normal",
+    "base_currency": "GBP",
+    "quote_currency": "USD",
+    "quantity": 1000.00,
+    "price_per_unit": 1.40
+  },
+  {
+    "name": "USD-RUB",
+    "type": "normal",
+    "base_currency": "USD",
+    "quote_currency": "RUB",
+    "quantity": 100.87,
+    "price_per_unit": 72.84
+  },
+
+  {
+    "name": "ENTG",
+    "type": "foreign",
+    "quote_currency": "USD",
+    "quantity": 10.00,
+    "price_per_unit": 116.16
+  },
+  {
+    "name": "CRM",
+    "type": "foreign",
+    "quote_currency": "USD",
+    "quantity": 20.00,
+    "price_per_unit": 235.64
+  },
+
+  {
+    "name": "CDPROJEKT",
+    "type": "polish",
+    "quote_currency": "PLN",
+    "quantity": 1024.64,
+    "price_per_unit": 160.20
+  },
+  {
+    "name": "PZU",
+    "type": "polish",
+    "quote_currency": "PLN",
+    "quantity": 64.32,
+    "price_per_unit": 38.21
+  }
+]
